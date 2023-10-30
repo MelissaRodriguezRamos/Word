@@ -1,2 +1,2 @@
 # Word
-Archivos de word
+Archivos de word.
